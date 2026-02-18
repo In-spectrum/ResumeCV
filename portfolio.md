@@ -3,88 +3,99 @@ layout: default
 title: Portfolio
 ---
 
-<style>
-.nav {
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  margin-bottom:50px;
-}
+# 🚀 Моє портфоліо
 
-.nav a {
-  text-decoration:none;
-  margin-left:25px;
-  font-weight:600;
-  color:#0366d6;
-}
+Нижче — приклади розроблених мною додатків.
 
-.nav a:hover {
-  text-decoration:underline;
-}
+---
 
-.project {
-  margin-bottom:60px;
-}
+## 🧩 Додаток 1 — Назва
 
-.gallery {
-  display:flex;
-  overflow-x:auto;
-  gap:15px;
-  margin:15px 0;
-}
-
-.gallery img {
-  width:500px;
-  border-radius:10px;
-  box-shadow:0 4px 10px rgba(0,0,0,0.15);
-}
-</style>
-
-<div class="nav">
-  <div>
-    <h1 style="margin:0;">Alexandr Deryk</h1>
-    <p style="margin:0; color:gray;">C++ / Qt Developer</p>
-  </div>
-  <div>
-    <a href="index.md">Resume</a>
-    <a href="portfolio.md">Portfolio</a>
-  </div>
+<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
+  <img src="images/app1_1.png" width="500"/>
+  <img src="images/app1_2.png" width="500"/>
+  <img src="images/app1_3.png" width="500"/>
 </div>
 
-<div class="project">
-<h2>RTSP Client (Qt + GStreamer)</h2>
+**Короткий опис:**  
+Невеликий опис додатку. Яку проблему вирішує, які ключові можливості.
 
-<div class="gallery">
-  <img src="images/rtsp1.png">
-  <img src="images/rtsp2.png">
+**Технології:**  
+`C++` · `Qt` · `GStreamer` · `TCP/IP`
+
+---
+
+## 🧩 Додаток 2 — Назва
+
+<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
+  <img src="images/app2_1.png" width="500"/>
+  <img src="images/app2_2.png" width="500"/>
 </div>
 
-<p>
-Desktop application for viewing RTSP streams with recording support.
-Optimized pipeline configuration and stable long-term playback.
-</p>
+**Короткий опис:**  
+Опис другого додатку.
 
-<p><strong>Technologies:</strong> C++, Qt, GStreamer</p>
+**Технології:**  
+`C++` · `Qt` · `OpenCV`
+
+---
+
+## 🧩 Додаток 3 — Назва
+
+<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
+  <img src="images/app3_1.png" width="500"/>
+  <img src="images/app3_2.png" width="500"/>
 </div>
 
-<div class="project">
-<h2>File Transfer System</h2>
+**Короткий опис:**  
+Опис третього додатку.
 
-<div class="gallery">
-  <img src="images/file1.png">
-  <img src="images/file2.png">
+**Технології:**  
+`Java` · `Spring` · `PostgreSQL`
+
+---
+
+## 🧩 Додаток 4 — Назва
+
+<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
+  <img src="images/app4_1.png" width="500"/>
+  <img src="images/app4_2.png" width="500"/>
 </div>
 
-<p>
-Client-server system for transmitting binary data in chunks over TCP.
-Designed for reliable large file transfer.
-</p>
+**Короткий опис:**  
+Опис четвертого додатку.
 
-<p><strong>Technologies:</strong> C++, Qt, TCP/IP</p>
+**Технології:**  
+`Python` · `PyQt` · `NumPy`
+
+---
+
+## 🧩 Додаток 5 — Назва
+
+<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
+  <img src="images/app5_1.png" width="500"/>
+  <img src="images/app5_2.png" width="500"/>
 </div>
 
-<!-- Додай ще 4 проєкти аналогічно -->
+**Короткий опис:**  
+Опис п'ятого додатку.
 
-<hr>
+**Технології:**  
+`React` · `TypeScript` · `Node.js`
 
-<h3>🧾 <a href="index.md">Back to Resume</a></h3>
+---
+
+## 🧩 Додаток 6 — Назва
+
+<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
+  <img src="images/app6_1.png" width="500"/>
+  <img src="images/app6_2.png" width="500"/>
+</div>
+
+**Короткий опис:**  
+Опис шостого додатку.
+
+**Технології:**  
+`C++` · `Qt` · `Multithreading`
+
+---
