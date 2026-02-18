@@ -11,7 +11,10 @@
       line-height: 1.6;
     }
 
+    /* Навігація */
     .nav {
+      display: flex;
+      justify-content: flex-end; /* кнопка справа */
       margin-bottom: 40px;
     }
 
@@ -22,7 +25,7 @@
       padding: 8px 16px;
       border-radius: 6px;
       border: 1px solid #0366d6;
-      margin-right: 10px;
+      margin-left: 10px; /* відстань між кнопками */
     }
 
     .nav a:hover {
@@ -49,13 +52,12 @@
 </head>
 <body>
 
+<!-- Навігація: кнопка перемикання мови справа -->
 <div class="nav">
   {% if page.lang == "ua" %}
-    <!-- На українській сторінці показуємо тільки English -->
-    <a href="resume_en.md">English 🇬🇧</a>
+    <a href="index_en.md">EN</a>
   {% elsif page.lang == "en" %}
-    <!-- На англійській сторінці показуємо тільки Українську -->
-    <a href="index.md">Українська 🇺🇦</a>
+    <a href="index.md">🇺🇦</a>
   {% endif %}
 </div>
 
