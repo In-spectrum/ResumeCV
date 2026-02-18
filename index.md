@@ -3,6 +3,7 @@ layout: default
 title: Resume
 ---
 
+
 # Alexandr Deryk
 **C++ / Qt Developer**
 
