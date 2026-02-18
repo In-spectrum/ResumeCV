@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Portfolio
+title: "Portfolio"
+lang: en
 ---
 
 # Portfolio
-
-[Українська](portfolio_ua.md)
 
 ---
 
@@ -27,4 +26,4 @@ C++, Qt, TCP/IP
 
 ---
 
-[Back to Resume](index_en.md)
+[Back to Resume](resume_en.md)
