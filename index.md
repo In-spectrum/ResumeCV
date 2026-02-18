@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Резюме
+title: "Резюме"
+lang: ua
 ---
 
 # Alexandr Deryk
 C++ / Qt Developer
-
-[English](index_en.md)
 
 ---
 
@@ -37,7 +36,5 @@ C++ розробник з досвідом створення десктопни
 - Windows
 
 ---
-
-## Проєкти
 
 [Перейти до портфоліо](portfolio_ua.md)
