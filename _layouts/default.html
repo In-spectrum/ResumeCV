@@ -2,7 +2,7 @@
 <html lang="uk">
 <head>
   <meta charset="UTF-8">
-  <!-- title>{{ page.title | default: site.title }}</title -->
+  <title>{{ page.title | default: site.title }}</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -16,14 +16,18 @@
     }
 
     .nav a {
-      margin-right: 20px;
       text-decoration: none;
       font-weight: bold;
       color: #0366d6;
+      padding: 8px 16px;
+      border-radius: 6px;
+      border: 1px solid #0366d6;
+      margin-right: 10px;
     }
 
     .nav a:hover {
-      text-decoration: underline;
+      background: #0366d6;
+      color: white;
     }
 
     hr {
@@ -45,21 +49,18 @@
 </head>
 <body>
 
-  <!-- Навігація -->
-  <div class="nav">
-    {% if page.lang == "ua" %}
-      <a href="index.md">Резюме 🇺🇦</a>
-      <a href="portfolio.md">Портфоліо</a>
-      <a href="index_en.md">English 🇬🇧</a>
-    {% elsif page.lang == "en" %}
-      <a href="index_en.md">Resume 🇬🇧</a>
-      <a href="portfolio_en.md">Portfolio</a>
-      <a href="index.md">Українська 🇺🇦</a>
-    {% endif %}
-  </div>
+<div class="nav">
+  {% if page.lang == "ua" %}
+    <!-- На українській сторінці показуємо тільки English -->
+    <a href="resume_en.md">English 🇬🇧</a>
+  {% elsif page.lang == "en" %}
+    <!-- На англійській сторінці показуємо тільки Українську -->
+    <a href="index.md">Українська 🇺🇦</a>
+  {% endif %}
+</div>
 
-  <!-- Контент з .md -->
-  {{ content }}
+<!-- Контент сторінки -->
+{{ content }}
 
 </body>
 </html>
