@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Resume
+title: "Resume"
+lang: en
 ---
 
 # Alexandr Deryk
 C++ / Qt Developer
-
-[Українська](index_ua.md)
 
 ---
 
@@ -37,7 +36,5 @@ network communication and multimedia systems.
 - Windows
 
 ---
-
-## Projects
 
 [View Portfolio](portfolio_en.md)
