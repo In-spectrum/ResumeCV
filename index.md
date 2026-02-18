@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Alexandr Deryk
 ## Software Developer
