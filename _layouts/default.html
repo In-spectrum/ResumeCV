@@ -14,7 +14,7 @@
     /* Навігація (кнопка перемикання мови справа) */
     .nav {
       display: flex;
-      justify-content: flex-end;
+      justify-content: flex-end; /* кнопка справа */
       margin-bottom: 40px;
     }
 
@@ -26,14 +26,19 @@
       text-align: center;
       text-decoration: none;
       font-weight: bold;
-      font-size: 16px;      /* фіксований шрифт */
-      font-family: Arial, sans-serif;
+      font-size: 16px;
+      font-family: "Segoe UI Emoji", Arial, sans-serif; /* для стабільного відображення emoji */
       color: #0366d6;
-      padding: 0;           /* ніяких змін при hover */
+      padding: 0;           /* нічого не змінює розмір кнопки */
       border-radius: 6px;
       border: 1px solid #0366d6;
       margin-left: 10px;    /* відстань між кнопками */
       box-sizing: border-box;
+    }
+
+    /* Немає hover ефекту, щоб кнопка не змінювалася */
+    .nav a:hover {
+      color: #0366d6; /* лиш трохи зміна тексту можна, без збільшення */
     }
 
     hr {
