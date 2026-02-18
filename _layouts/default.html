@@ -11,10 +11,10 @@
       line-height: 1.6;
     }
 
-    /* Навігація */
+    /* Навігація (кнопка перемикання мови справа) */
     .nav {
       display: flex;
-      justify-content: flex-end; /* кнопка справа */
+      justify-content: flex-end;
       margin-bottom: 40px;
     }
 
@@ -26,18 +26,14 @@
       text-align: center;
       text-decoration: none;
       font-weight: bold;
+      font-size: 16px;      /* фіксований шрифт */
+      font-family: Arial, sans-serif;
       color: #0366d6;
-      padding: 0;           /* без додаткових паддінгів, щоб не збільшувало */
+      padding: 0;           /* ніяких змін при hover */
       border-radius: 6px;
       border: 1px solid #0366d6;
       margin-left: 10px;    /* відстань між кнопками */
-      transition: all 0.3s ease; /* плавний ефект */
-    }
-
-    .nav a:hover {
-      background: #0366d6;
-      color: white;
-      box-shadow: 0 0 8px #0366d6; /* миготіння/світіння */
+      box-sizing: border-box;
     }
 
     hr {
@@ -59,7 +55,7 @@
 </head>
 <body>
 
-<!-- Навігація: кнопка перемикання мови справа -->
+<!-- Кнопка перемикання мови справа -->
 <div class="nav">
   {% if page.lang == "ua" %}
     <a href="index_en.html">EN</a>
