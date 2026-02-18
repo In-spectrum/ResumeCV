@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Потрфоліо
+title: "Портфоліо"
+lang: ua
 ---
 
 # Портфоліо
-
-[English](portfolio_en.md)
 
 ---
 
@@ -27,4 +26,4 @@ C++, Qt, TCP/IP
 
 ---
 
-[Назад до резюме](index_ua.md)
+[Назад до резюме](index.md)
