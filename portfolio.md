@@ -23,7 +23,7 @@ title: Portfolio
 Додаток користувача для управління системою на платформі: Windows,  Ubuntu, ARM (NVIDIA Jetson TX2, Android.
 
 **Технології:**  
-`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `онлай/офлайн карти місцемості EspiMap` · `навігація GPS` · `Serial-port` · `Pelco-D` · `натівний протокол управління поворотною системою` · `зум/фокус оптичної системи` · `GStreamer (RTP/ RTSP-stream, запис відео, запис екрана)`
+`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `онлай/офлайн карти місцемості EspiMap` · `навігація GPS` · `Serial-port` · `Pelco-D` · `натівний протокол управління поворотною системою` · `зум/фокус оптичної системи` · `GStreamer (RTP/RTSP-stream, запис відео, запис екрана)`
 
 ---
 
