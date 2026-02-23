@@ -3,13 +3,12 @@ layout: default
 title: Portfolio
 ---
 
-# 🚀 Моє портфоліо
+## 🚀 Портфоліо
 
-Нижче — приклади розроблених мною додатків.
-
+# Олександр Дерик
 ---
 
-## 🧩 Додаток 1 — Назва
+## 🧩 Оптико-електронна системою відео спостереження
 
 <div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
   <img src="images/app1_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
