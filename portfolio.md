@@ -12,12 +12,12 @@ title: Portfolio
 
 <p align="center">
   <a href="images/app1_1.png" target="_blank">
-    <img src="images/app1_1.png" height="250">
+    <img src="images/app1_1.png" height="350">
   </a>
 </p>
 <p align="center">
   <a href="images/app1_2.png" target="_blank">
-    <img src="images/app1_2.png" height="250">
+    <img src="images/app1_2.png" height="350">
   </a>
 </p>
 
