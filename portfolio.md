@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Портфоліо"
-lang: ua
+title: "Porfolio"
 ---
 
 # Портфоліо
