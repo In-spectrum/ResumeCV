@@ -11,10 +11,10 @@ title: Portfolio
 
 ## 🧩 Додаток 1 — Назва
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
-  <img src="images/app1_1.png" width="500"/>
-  <img src="images/app1_2.png" width="500"/>
-  <img src="images/app1_3.png" width="500"/>
+<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
+  <img src="images/app1_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
+  <img src="images/app1_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
+  <img src="images/app1_3.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
 </div>
 
 **Короткий опис:**  
@@ -27,9 +27,9 @@ title: Portfolio
 
 ## 🧩 Додаток 2 — Назва
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
-  <img src="images/app2_1.png" width="500"/>
-  <img src="images/app2_2.png" width="500"/>
+<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
+  <img src="images/app2_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
+  <img src="images/app2_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
 </div>
 
 **Короткий опис:**  
@@ -42,9 +42,9 @@ title: Portfolio
 
 ## 🧩 Додаток 3 — Назва
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
-  <img src="images/app3_1.png" width="500"/>
-  <img src="images/app3_2.png" width="500"/>
+<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
+  <img src="images/app3_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
+  <img src="images/app3_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
 </div>
 
 **Короткий опис:**  
@@ -57,9 +57,9 @@ title: Portfolio
 
 ## 🧩 Додаток 4 — Назва
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
-  <img src="images/app4_1.png" width="500"/>
-  <img src="images/app4_2.png" width="500"/>
+<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
+  <img src="images/app4_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
+  <img src="images/app4_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
 </div>
 
 **Короткий опис:**  
@@ -72,9 +72,9 @@ title: Portfolio
 
 ## 🧩 Додаток 5 — Назва
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
-  <img src="images/app5_1.png" width="500"/>
-  <img src="images/app5_2.png" width="500"/>
+<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
+  <img src="images/app5_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
+  <img src="images/app5_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
 </div>
 
 **Короткий опис:**  
@@ -87,9 +87,9 @@ title: Portfolio
 
 ## 🧩 Додаток 6 — Назва
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
-  <img src="images/app6_1.png" width="500"/>
-  <img src="images/app6_2.png" width="500"/>
+<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
+  <img src="images/app6_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
+  <img src="images/app6_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
 </div>
 
 **Короткий опис:**  
