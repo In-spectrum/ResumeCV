@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Resume"
+title: Resume
 ---
 
 #  ALEKSANDR DERYK
