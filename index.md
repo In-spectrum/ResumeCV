@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Резюме"
-lang: ua
+title: "Resume"
 ---
 
 # Alexandr Deryk
