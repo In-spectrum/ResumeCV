@@ -10,10 +10,14 @@ title: Portfolio
 
 ## 🧩 Оптико-електронна системою відео спостереження
 
-<div style="display:flex; flex-direction:column; align-items:center; gap:12px; padding:10px 0;">
-  <img src="images/app1_1.png" style="height:300px; width:auto; border-radius:6px;" />
-  <img src="images/app1_2.png" style="height:300px; width:auto; border-radius:6px;" />
-</div>
+<p align="center">
+  <a href="images/app1_1.png" target="_blank">
+    <img src="images/app1_1.png" height="300">
+  </a>
+</p>
+<p align="center">
+  <img src="images/app1_2.png" height="300">
+</p>
 
 **Опис:**  
 Система призначена для відео спостереження, в ***денний та нічний*** час, за об’єктами, місцевістю на відстанях понад 30км. Забезпечує: автоматизоване спостереження за визначеними секторами, лазерне вимірювання відстані до об’єкта, фото/відео фіксацію, автоматичне виявлення об’єктів та їх супровід. Управління здійснюється за допомогою окремого пульта управлінн або зі стаціонарного ПК, планшета по Ethernet(WiFi) мережі.
