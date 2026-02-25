@@ -13,7 +13,8 @@ title: Portfolio
 * [**BypassNAT (system for remote access to devices)**](#app_4)
 * [**CamOnTime (personal media service)**](#app_5)
 * [**Mean Mole (the game)**](#app_6)
-* [**IP-cam**](#app_7)
+* [**IP-cam GO**](#app_7)
+
 ---
 
 <h2 id="app_1">🧩 Оптико-електронна тепловізійна системою відеоспостереження</h2>
