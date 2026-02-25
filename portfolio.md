@@ -53,7 +53,12 @@ title: Portfolio
 
 <p align="center">
   <a href="images/app2_1.jpg" target="_blank">
-    <img src="images/app2_1.jpg" height="350">
+    <img src="images/app2_1.jpg" height="300">
+  </a>
+</p>
+<p align="center">
+  <a href="images/app2_3.jpg" target="_blank">
+    <img src="images/app2_3.jpg" height="200">
   </a>
 </p>
 <p align="center">
@@ -86,8 +91,13 @@ Android додаток для управління оптичним теплов
 <h2 id="app_3">🧩 Тепловізійний розвідувальний прилад</h2>
 
 <p align="center">
-  <a href="images/app2_1.png" target="_blank">
-    <img src="images/app2_1.png" height="250">
+  <a href="images/app3_1.jpg" target="_blank">
+    <img src="images/app3_1.jpg" height="250">
+  </a>
+</p>
+<p align="center">
+  <a href="images/app3_2.jpg" target="_blank">
+    <img src="images/app3_2.jpg" height="200">
   </a>
 </p>
 
