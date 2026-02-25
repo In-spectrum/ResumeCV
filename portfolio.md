@@ -10,9 +10,9 @@ title: Portfolio
 * [**Оптико-електронна тепловізійна системою відеоспостереження**](#app_1)
 * [**Балістичний калькулятор**](#app_2)
 * [**Тепловізійний розвідувальний приладv**](#app_3)
-* [**BypassNAT | System for remote access to devices**](#app_4)
-* [**CamOnTime | Personal media service**](#app_5)
-* [**Mean Mole | Game**](#app_6)
+* [**BypassNAT (system for remote access to devices)**](#app_4)
+* [**CamOnTime (personal media service)**](#app_5)
+* [**Mean Mole (the game)**](#app_6)
 * [**IP-cam GO**](#app_7)
 ---
 
