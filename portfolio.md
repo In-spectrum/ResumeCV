@@ -75,7 +75,7 @@ Android додаток для управління оптичним теплов
 для вбудованої системи (платформа HiSilicon “HIVIEW-TECH”)
 
 **Технології**  
-`С` · `Qt` · `Multithreading` · `TCP/IP` · `LVGL` · `JSON` · `I2C`
+`С` · `Embedded systems` · `Qt` · `Multithreading` · `TCP/IP` · `LVGL` · `JSON` · `I2C`
 
 ---
 
