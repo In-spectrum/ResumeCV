@@ -131,17 +131,23 @@ Android додаток для управління оптичним теплов
 
 ---
 
-## 🧩 Додаток 6 — Назва
+## 🧩 Mean Mole
 
-<div style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:12px; padding:10px 0;">
-  <img src="images/app6_1.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
-  <img src="images/app6_2.png" style="height:300px; flex:0 0 auto; border-radius:6px;" />
-</div>
+<p align="center">
+  <a href="images/app2_1.png" target="_blank">
+    <img src="images/app2_1.png" height="250">
+  </a>
+</p>
 
-**Короткий опис**  
-Опис шостого додатку.
+**Опис**  
+Кросплатформений ігровий додаток у якому потрібно подолати перешкоди  
+та засіяти визначену ділянку землі.  
+Розроблено для платфом: Windows, Ubuntu, Android, iOs, Windows Phone.
+
+**Розробив**  
+Архітектуру, логіку та програмне забезпечення.
 
 **Технології**  
-`C++` · `Qt` · `Multithreading`
+`С++` · `Qt(QML)`
 
 ---
