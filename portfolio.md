@@ -66,12 +66,12 @@ title: Portfolio
   
   <a href="images/app2_4.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app2_4.jpg"
-         style="height:400px; width:auto; margin:15px 15px; border-radius:6px;">
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
   </a>
 
   <a href="images/app2_2.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app2_2.jpg"
-         style="height:400px; width:auto; margin:15px 15px; border-radius:6px;">
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
   </a>
 
 </div>
@@ -220,22 +220,22 @@ Android додаток для управління оптичним теплов
   
   <a href="images/app5_1.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app5_1.jpg"
-         style="height:400px; width:auto; margin:15px 15px; border-radius:6px;">
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
   </a>
 
   <a href="images/app5_2.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app5_2.jpg"
-         style="height:400px; width:auto; margin:15px 15px; border-radius:6px;">
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
   </a>
 
   <a href="images/app5_3.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app5_3.jpg"
-         style="height:400px; width:auto; margin:15px 15px; border-radius:6px;">
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
   </a>
 
   <a href="images/app5_4.jpg" target="_blank" style="display:inline-block;">
     <img src="images/app5_4.jpg"
-         style="height:400px; width:auto; margin:15px 15px; border-radius:6px;">
+         style="height:400px; width:auto; margin:5px 5px; border-radius:6px;">
   </a>
 
 </div>
