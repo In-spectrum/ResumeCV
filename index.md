@@ -198,7 +198,7 @@ Android додаток для управління оптичним теплов
 
 ---
 <h2 id="app_6">
-	🧩  <a href="https://www.amazon.co.jp/-/en/dp/B0777TMJS3" target="_blank">Mean Mole/a>
+	🧩  <a href="https://www.amazon.co.jp/-/en/dp/B0777TMJS3" target="_blank">Mean Mole</a>
 </h2>
 		
 <p align="center">
@@ -206,16 +206,20 @@ Android додаток для управління оптичним теплов
     <img src="images/app4_1.jpg"  width="350" style="height:auto;">
   </a>
 </p>
-<p align="center">
-  <a href="images/app4_2.jpg" target="_blank">
-    <img src="images/app4_2.jpg"  width="350" style="height:auto;">
+
+<div style="text-align:center; margin:10px 0;">
+  
+  <a href="images/app4_2.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app4_2.jpg"
+         style="width:400px; height:auto; margin:5px 5px; border-radius:6px;">
   </a>
-</p>
-<p align="center">
-  <a href="images/app4_3.jpg" target="_blank">
-    <img src="images/app4_3.jpg"  width="350" style="height:auto;">
+
+  <a href="images/app4_3.jpg" target="_blank" style="display:inline-block;">
+    <img src="images/app4_3.jpg"
+         style="width:400px; height:auto; margin:5px 5px; border-radius:6px;">
   </a>
-</p>
+
+</div>
 
 **Опис**  
 Кросплатформений ігровий додаток у якому потрібно подолати перешкоди  
