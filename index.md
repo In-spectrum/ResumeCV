@@ -7,7 +7,7 @@ title: "Portfolio"
   🌐 <a href="index_ua.html">UA</a>
 </h2>
 
-<h1 style="margin-top:0;">
+<h1 style="margin-top:0; font-size:2.5em;">
   Aleksandr Deryk
 </h1>
 
