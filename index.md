@@ -4,7 +4,7 @@ title: "Portfolio"
 ---
 
 <h2 style="text-align:right; border:none; margin-bottom:0;">
-  🌐 <a href="index_ua.html" target="_blank">UA</a>
+  🌐 <a href="index_ua.html">UA</a>
 </h2>
 
 <h2 style="margin-top:0;">
