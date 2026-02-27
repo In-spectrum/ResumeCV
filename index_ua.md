@@ -4,7 +4,7 @@ title: "Портфоліо"
 ---
 
 <h2 style="text-align:right; border:none; margin-bottom:0;">
-  🌐 <a href="index.html">EN</a>
+  <a href="index.html">🌐 EN</a>
 </h2>
 
 <h1 style="margin-top:0; font-size:2.5em;">
