@@ -7,7 +7,7 @@ title: "Портфоліо"
   🌐 <a href="index.html">EN</a>
 </h2>
 
-<h1 style="margin-top:0;">
+<h1 style="margin-top:0; font-size:2.5em;">
   Олександр Дерик
 </h1>
 
