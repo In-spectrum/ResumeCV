@@ -14,7 +14,7 @@ title: "Portfolio"
 <h2 style="border:none; margin-bottom:0;">
   🚀 Portfolio
 </h2>
-
+  
 * [**BypassNAT (system for remote access to devices)**](#app_4)
 * [**CamOnTime (personal media service)**](#app_5)
 * [**Optical-electronic thermal imaging video surveillance system**](#app_1)
