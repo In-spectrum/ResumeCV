@@ -3,15 +3,17 @@ layout: default
 title: "Портфоліо"
 ---
 
-<h2 style="text-align:right; margin-right:50px; border:none; margin-bottom:0;">
-  🌐 <a href="index.md" target="_blank">EN</a>
+<h2 style="text-align:right; border:none; margin-bottom:0;">
+  🌐 <a href="index.html">EN</a>
 </h2>
 
 <h2 style="margin-top:0;">
-  Олександр Дери
+  Олександр Дерик
 </h2>
 
-## 🚀 Портфоліо
+<h2 style="border:none; margin-bottom:0;">
+  🚀 Портфоліо
+</h2>
 
 * [**BypassNAT (система віддаленого доступ до приладів)**](#app_4)
 * [**CamOnTime (особистий медіа сервіс)**](#app_5)
