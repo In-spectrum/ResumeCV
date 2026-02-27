@@ -3,7 +3,7 @@ layout: default
 title: "Portfolio"
 ---
 
-<h2 style="text-align:right; margin-right:50px; border:none; margin-bottom:0;">
+<h2 style="text-align:right; border:none; margin-bottom:0;">
   🌐 <a href="index_ua.html" target="_blank">UA</a>
 </h2>
 
@@ -11,7 +11,9 @@ title: "Portfolio"
   Aleksandr Deryk
 </h2>
 
-## 🚀 Portfolio
+<h2 style="border:none; margin-bottom:0;">
+  🚀 Portfolio
+</h2>
 
 * [**BypassNAT (system for remote access to devices)**](#app_4)
 * [**CamOnTime (personal media service)**](#app_5)
