@@ -7,13 +7,81 @@ title: ""
 
 ## 🚀 Портфоліо
 
+* [**BypassNAT (система віддаленого доступ до приладів)**](#app_4)
+* [**CamOnTime (особистий медіа сервіс)**](#app_5)
 * [**Оптико-електронна тепловізійна система відеоспостереження**](#app_1)
 * [**Балістичний калькулятор**](#app_2)
 * [**Тепловізійний розвідувальний приладv**](#app_3)
-* [**BypassNAT (система віддаленого доступ до приладів)**](#app_4)
-* [**CamOnTime (особистий медіа сервіс)**](#app_5)
 * [**Mean Mole (game)**](#app_6)
 * [**IP-cam GO**](#app_7)
+
+---
+
+<h2 id="app_4">
+	🧩  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">BypassNAT | System for remote access to devices</a>
+</h2>
+
+
+<p align="center">
+  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">
+    	<img src="https://in-spectrum.github.io/BypassNAT/manual/images/baner.png" width="500" style="height:auto;"
+        alt="BypassNAT | System for remote access to devices.">
+	</a>
+</p>
+
+**Опис**  
+Кросплатформена система (клієнт/сервер) для віддаленого управління комп'ютером, пристроями,  
+які розташовані у мережі, де використовується NAT.  
+
+Забезпечує:
+- використання ***особистого*** сервера для збереження конфіденційності: 
+- віддалене керування пристроями;
+- обмін файлами;
+- захоплення, трансляція та перегляд робочого столу;
+- налаштування ssh-тунелю, доступ до пристроїв за допомогою ssh-протоколу.
+
+Підтримує платформи: Windows, Ubuntu, ARM (Raspberry Pi), Android
+
+**Технології**  
+`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `MediaMTX` · `Nginx` · `GStreamer (RTSP/RTMP-stream)`
+
+<a href="https://github.com/In-spectrum/BypassNAT" target="_blank">GitHub</a>
+
+---
+
+<h2 id="app_5">
+	🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Personal media service</a>
+</h2>
+
+<p align="center">
+  <b>Video preview</b>
+</p>
+<p align="center">
+  <a href="https://in-spectrum.github.io/CamOnTime/manual/videos/demo.mp4"
+     style="position:relative; display:inline-block;">
+    <img src="https://in-spectrum.github.io/CamOnTime/manual/images/demo_preview.png"  width="400" style="height:auto;">	  
+  </a>	
+</p>
+
+
+
+**Опис**  
+Кросплатформений ***особистий*** мультимедійний сервіс (клієнт/rtsp-сервер).  
+  
+Забезпечує:
+- реєстрацію ip-камер;
+- перегляд відео з ip-камер;
+- збереження відео на сервері;
+- перегляд відофайлів;
+- копіювання відеофайлів з сервера на смартфон;
+- надання доступу до камери іншим користувачам.
+
+Підтримує платформи: Windows, Ubuntu, ARM (Raspberry Pi), Android.  
+
+**Технології**  
+`C++` · `Qt(QML)` · `TCP/IP` · `GStreamer(RTSP-stream, RTSP-server)`  
+
+<a href="https://github.com/In-spectrum/CamOnTime" target="_blank">GitHub</a>
 
 ---
 
@@ -130,73 +198,6 @@ Android додаток для управління оптичним теплов
 
 ---
 
-<h2 id="app_4">
-	🧩  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">BypassNAT | System for remote access to devices</a>
-</h2>
-
-
-<p align="center">
-  <a href="https://in-spectrum.github.io/BypassNAT/" target="_blank">
-    	<img src="https://in-spectrum.github.io/BypassNAT/manual/images/baner.png" width="500" style="height:auto;"
-        alt="BypassNAT | System for remote access to devices.">
-	</a>
-</p>
-
-**Опис**  
-Кросплатформена система (клієнт/сервер) для віддаленого управління комп'ютером, пристроями,  
-які розташовані у мережі, де використовується NAT.  
-
-Забезпечує:
-- використання ***особистого*** сервера для збереження конфіденційності: 
-- віддалене керування пристроями;
-- обмін файлами;
-- захоплення, трансляція та перегляд робочого столу;
-- налаштування ssh-тунелю, доступ до пристроїв за допомогою ssh-протоколу.
-
-Підтримує платформи: Windows, Ubuntu, ARM (Raspberry Pi), Android
-
-**Технології**  
-`С++` · `Qt(QML)` · `Multithreading` · `TCP/IP` · `MediaMTX` · `Nginx` · `GStreamer (RTSP/RTMP-stream)`
-
-<a href="https://github.com/In-spectrum/BypassNAT" target="_blank">GitHub</a>
-
----
-
-<h2 id="app_5">
-	🧩  <a href="https://in-spectrum.github.io/CamOnTime/" target="_blank">CamOnTime | Personal media service</a>
-</h2>
-
-<p align="center">
-  <b>Video preview</b>
-</p>
-<p align="center">
-  <a href="https://in-spectrum.github.io/CamOnTime/manual/videos/demo.mp4"
-     style="position:relative; display:inline-block;">
-    <img src="https://in-spectrum.github.io/CamOnTime/manual/images/demo_preview.png"  width="400" style="height:auto;">	  
-  </a>	
-</p>
-
-
-
-**Опис**  
-Кросплатформений ***особистий*** мультимедійний сервіс (клієнт/rtsp-сервер).  
-  
-Забезпечує:
-- реєстрацію ip-камер;
-- перегляд відео з ip-камер;
-- збереження відео на сервері;
-- перегляд відофайлів;
-- копіювання відеофайлів з сервера на смартфон;
-- надання доступу до камери іншим користувачам.
-
-Підтримує платформи: Windows, Ubuntu, ARM (Raspberry Pi), Android.  
-
-**Технології**  
-`C++` · `Qt(QML)` · `TCP/IP` · `GStreamer(RTSP-stream, RTSP-server)`  
-
-<a href="https://github.com/In-spectrum/CamOnTime" target="_blank">GitHub</a>
-
----
 <h2 id="app_6">
 	🧩  <a href="https://www.amazon.co.jp/-/en/dp/B0777TMJS3" target="_blank">Mean Mole</a>
 </h2>
