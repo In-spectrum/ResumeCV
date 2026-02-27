@@ -197,12 +197,23 @@ Android додаток для управління оптичним теплов
 <a href="https://github.com/In-spectrum/CamOnTime" target="_blank">GitHub</a>
 
 ---
-
-<h2 id="app_6">🧩 Mean Mole</h2>
-
+<h2 id="app_6">
+	🧩  <a href="https://www.amazon.co.jp/-/en/dp/B0777TMJS3" target="_blank">Mean Mole/a>
+</h2>
+		
 <p align="center">
-  <a href="images/app2_1.png" target="_blank">
-    <img src="images/app2_1.png" height="250">
+  <a href="images/app4_1.jpg" target="_blank">
+    <img src="images/app4_1.jpg"  width="350" style="height:auto;">
+  </a>
+</p>
+<p align="center">
+  <a href="images/app4_2.jpg" target="_blank">
+    <img src="images/app4_2.jpg"  width="350" style="height:auto;">
+  </a>
+</p>
+<p align="center">
+  <a href="images/app4_3.jpg" target="_blank">
+    <img src="images/app4_3.jpg"  width="350" style="height:auto;">
   </a>
 </p>
 
