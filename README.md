@@ -296,5 +296,5 @@ Java, Multithreading, REST API
 
 ---
 
-<h2 id="contacts" style="border:none; margin-bottom:0;">✉️ Contacts</h2>  
-<br>E-mail: alexandr.deryck@gmail.com
+<h2 id="contacts" style="border:none; margin-bottom:0;">✉️ Contacts</h2>
+E-mail: alexandr.deryck@gmail.com
