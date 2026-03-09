@@ -297,5 +297,4 @@ Java, Multithreading, REST API
 ---
 
 <h2 id="contacts" style="border:none; margin-bottom:0;">✉️ Contacts</h2>  
-Country: Ukraine
 <br>E-mail: alexandr.deryck@gmail.com
