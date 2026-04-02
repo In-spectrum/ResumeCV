@@ -23,10 +23,11 @@ title: "Портфоліо"
 * [**Mean Mole (game)**](#app_6)
 * [**IP-cam GO**](#app_7)
 
-<h2 style="border:none; margin-bottom:0;">
-  ✉️ <a href="#contacts">Контакти</a>
+<h2 id="contacts" style="border:none; margin-bottom:0;">
+  ✉️ Контакти
 </h2>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com  
+  
 ---
 
 <h2 id="app_4">
@@ -303,5 +304,3 @@ Java, Multithreading, REST API
 
 ---
 
-<h2 id="contacts" style="border:none; margin-bottom:0;">✉️ Контакти</h2>
-E-mail: alexandr.deryck@gmail.com
