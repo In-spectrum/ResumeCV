@@ -11,6 +11,11 @@ title: "Портфоліо"
   Олександр Дерик
 </h1>
 
+<h2 id="contacts" style="border:none; margin-bottom:0;">
+  ✉️ Контакти
+</h2>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com  
+
 <h2 style="border:none; margin-bottom:0;">
   🚀 Портфоліо
 </h2>
@@ -22,11 +27,6 @@ title: "Портфоліо"
 * [**Тепловізійний розвідувальний прилад**](#app_3)
 * [**Mean Mole (game)**](#app_6)
 * [**IP-cam GO**](#app_7)
-
-<h2 id="contacts" style="border:none; margin-bottom:0;">
-  ✉️ Контакти
-</h2>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com  
   
 ---
 
