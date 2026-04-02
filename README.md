@@ -6,6 +6,10 @@
 <h1 style="margin-top:0; font-size:2.5em;">
   Oleksandr Deryk
 </h1>
+<h2 id="contacts" style="border:none; margin-bottom:0;">
+  ✉️ Contacts
+</h2>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com  
 
 <h2 style="border:none; margin-bottom:0;">
   🚀 Portfolio
@@ -18,12 +22,6 @@
 * [**Thermal imaging reconnaissance device**](#app_3)
 * [**Mean Mole (game)**](#app_6)
 * [**IP-cam GO**](#app_7)
-
-
-<h2 id="contacts" style="border:none; margin-bottom:0;">
-  ✉️ Contacts
-</h2>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: alexandr.deryck@gmail.com  
   
 ---
 
